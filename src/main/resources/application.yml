@@ -1,0 +1,24 @@
+#server:
+#  port: 8086
+#
+#
+#---
+#spring:
+#  profiles: dev
+#  datasource:
+#      driver-class-name: com.mysql.jdbc.Driver
+#      password: Test@123
+#      url: jdbc:mysql://localhost:3306/baap
+#      username: root
+#  jpa:
+#     hibernate:
+#      ddl-auto: update
+#     show-sql: true
+#welcome:
+#  message: Hello Sanjay
+
+
+
+
+
+
